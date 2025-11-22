@@ -149,7 +149,6 @@ xfail_strict = true
 addopts = """
     --color=yes
     --capture=fd
-    --numprocesses auto
 """
 filterwarnings = [
     "error",
